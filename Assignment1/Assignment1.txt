@@ -1,0 +1,4 @@
+- Github repo:  https://github.com/gugavaro/CSCIS-71.git
+- 11 Points
+-  I would give myself 11, because all I was able to complete all tasks. I am not sure yet how the understanding of the material reflects the objectives of my learning for this course. I was able to easily navigate on the requirements of this assignment.
+- To get a perfect score I could have created tests to validate my work. To achieve more, I will try to read extra material on the topics between classes.

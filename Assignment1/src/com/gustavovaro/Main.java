@@ -7,6 +7,6 @@ public class Main {
             return;
         }
 
-        System.out.print(String.format("Hello, %s!", args[0]));
+        System.out.print(String.format("Hello, %s!\n", args[0]));
     }
 }
